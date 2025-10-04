@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/SDK/Rocket.SDK.iml" filepath="$PROJECT_DIR$/.idea/modules/SDK/Rocket.SDK.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/SDK/Rocket.SDK.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/SDK/Rocket.SDK.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/SDK/Rocket.SDK.main.iml" filepath="$PROJECT_DIR$/.idea/modules/SDK/Rocket.SDK.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/SDK/Rocket.SDK.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/SDK/Rocket.SDK.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Rocket.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Rocket.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Rocket.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Rocket.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Rocket.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Rocket.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Rocket.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Rocket.app.unitTest.iml" />
+    </modules>
+  </component>
+</project>
